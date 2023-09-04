@@ -10,13 +10,7 @@ import firebase from 'firebase/compat/app';
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBpQprGXUcY8y-SEUxVBOM4t6d9oeZ427g",
-    authDomain: "movieweb-d0425.firebaseapp.com",
-    projectId: "movieweb-d0425",
-    storageBucket: "movieweb-d0425.appspot.com",
-    messagingSenderId: "1040440912218",
-    appId: "1:1040440912218:web:f2ad4bf82ec78e8db42b63",
-    measurementId: "G-754E77M78S"
+   //Acá va tu configuracion de tu firebase.
   };
 
 
